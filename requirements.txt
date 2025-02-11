@@ -148,7 +148,7 @@ jupyter-core==5.7.2
     #   nbformat
 kiwisolver==1.4.8
     # via matplotlib
-libsass==0.22.0
+libsass==0.23.0
     # via doxysphinx
 lxml==5.2.1
     # via doxysphinx
